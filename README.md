@@ -1,7 +1,7 @@
 ## Olá, eu sou o Flávio!
 
-- 🔭 Atualmente trabalhando como Assistente Administrativo
-- 🌱 Cursando Analise e Desenvolvimento de Sistemas
+- 💼 Atualmente trabalhando como Assistente Administrativo
+- 👨🏾‍💻 Cursando Analise e Desenvolvimento de Sistemas
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/FlavioADS">
