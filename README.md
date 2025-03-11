@@ -18,6 +18,7 @@
   <img align="center" alt="Flavio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Flavio-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="right" alt="Flavio-gif" height="85" width="95" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ3aTN4eDdvZ3gycGF1bWtpZHZmaGIzYmlkOHF0dXZmbXBvbTI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iyb2pEevoDThkFW/giphy.gif">
+  <img align="center" alt="Flavio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
 </div>  
 
 <div>
