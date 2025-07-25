@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!
 
-- 💼 Technology & Operations Intern at Santander
+- 💼 Technology & Operations Intern at Santander♨️
 - 👨🏾‍💻 Cursando Analise e Desenvolvimento de Sistemas
 
 <div style="display: flex; align-items: center;">
