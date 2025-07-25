@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!
 
-- 💼 Atualmente trabalho como Assistente Administrativo
+- 💼 Technology & Operations Intern at Santander
 - 👨🏾‍💻 Cursando Analise e Desenvolvimento de Sistemas
 
 <div style="display: flex; align-items: center;">
