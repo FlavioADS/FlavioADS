@@ -8,9 +8,7 @@
 
 Olá! Sou **Flávio Araújo**, estudante de Análise e Desenvolvimento de Sistemas e atualmente estagiário de **Technology & Operations no Santander**.
 
-Meu principal interesse é o **desenvolvimento backend**, onde busco construir soluções robustas, escaláveis e bem estruturadas. Gosto de trabalhar na construção de APIs, implementação de regras de negócio, modelagem de dados e desenvolvimento de aplicações com código limpo, organizado e testável.
-
-Tenho direcionado meus estudos principalmente ao ecossistema Java, com foco em Spring Boot, arquitetura de aplicações e boas práticas de desenvolvimento.
+Meu principal interesse é o **desenvolvimento backend**, onde busco construir soluções robustas, escaláveis e bem estruturadas.
 
 ### ⚙️ Conhecimentos e tecnologias
 
@@ -22,14 +20,6 @@ Tenho direcionado meus estudos principalmente ao ecossistema Java, com foco em S
 - **Mobile:** React Native, Expo e Expo Router.
 - **Cloud:** AWS e fundamentos de computação em nuvem.
 - **Frontend:** Angular.
-
-### 🚀 Atualmente
-
-- 🏦 Atuando como estagiário de Technology & Operations no Santander.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- ☕ Aprofundando meus conhecimentos em Java e Spring Boot.
-- 🧪 Estudando testes unitários, qualidade de código e boas práticas.
-- ☁️ Explorando serviços e soluções da AWS.
 
 ---
 
